@@ -1,0 +1,17 @@
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\ConsoleApp5.exe
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\ConsoleApp5.deps.json
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\ConsoleApp5.runtimeconfig.json
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\ConsoleApp5.dll
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\ConsoleApp5.pdb
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net10.0\xunit.abstractions.dll
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleA.ECD0A8E0.Up2Date
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.dll
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\refint\ConsoleApp5.dll
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.pdb
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\РПО\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net10.0\ref\ConsoleApp5.dll

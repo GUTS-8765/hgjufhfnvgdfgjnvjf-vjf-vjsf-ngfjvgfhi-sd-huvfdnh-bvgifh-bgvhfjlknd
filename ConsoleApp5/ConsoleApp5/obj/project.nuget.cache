@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/mGas5k+Us=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\РПО\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\РПО\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
